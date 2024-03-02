@@ -6,9 +6,15 @@ The primary objectives of the project are threefold. First, we intend to conduct
 
 Secondly, utilizing predictive modeling, we aim to develop a robust churn prediction model. This model will enable us to anticipate potential churn events before they occur, allowing for timely and targeted intervention strategies. Machine learning algorithms will be employed to analyze real-time data, continuously refining the model's accuracy and effectiveness.
 
+Data Modelling:
+![image](https://github.com/saideepak21/Power-BI-Projects/assets/126313546/4d9d9d81-60f6-4480-aa59-6be56279e074)
+
 Lastly, based on the insights gathered and the predictive model's outcomes, the project will conclude with the formulation of data-driven retention strategies. These strategies may include personalized marketing campaigns, improved customer service protocols, loyalty programs, and other initiatives aimed at enhancing overall customer satisfaction and loyalty.
 
 Throughout the project, emphasis will be placed on collaboration with cross-functional teams, including marketing, customer support, and product development. Regular monitoring and feedback loops will be established to ensure the continuous improvement of our churn prediction model and the effectiveness of implemented retention strategies.
+
+Dashboard:
+![image](https://github.com/saideepak21/Power-BI-Projects/assets/126313546/b7de6e20-189d-4d65-9cdd-b6a05b837afd)
 
 By undertaking this Customer Churn Analysis Project, we aim to enhance customer satisfaction, reduce churn rates, and ultimately contribute to the long-term sustainability and growth of our business. The insights gained will inform strategic decision-making, enabling us to build stronger and more enduring relationships with our valued customers.
 
