@@ -17,8 +17,3 @@ Dashboard:
 ![image](https://github.com/saideepak21/Power-BI-Projects/assets/126313546/b7de6e20-189d-4d65-9cdd-b6a05b837afd)
 
 By undertaking this Customer Churn Analysis Project, we aim to enhance customer satisfaction, reduce churn rates, and ultimately contribute to the long-term sustainability and growth of our business. The insights gained will inform strategic decision-making, enabling us to build stronger and more enduring relationships with our valued customers.
-
-
-
-
-
